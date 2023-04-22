@@ -22,5 +22,9 @@ This course covers topics as follows:
 
 
 6.Data Visualization
+
+
 7.Feature engineering
+
+
 8.Machine learning
