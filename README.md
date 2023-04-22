@@ -1,6 +1,8 @@
 # Python assignments repo
 
 Python assignments for data science master course
+
+
 This course covers topics as follows:
 1.Python 
 2.Statistics
